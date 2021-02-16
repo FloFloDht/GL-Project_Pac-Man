@@ -1,6 +1,4 @@
-#Projet Pac-Man Master 1 UE Génie logiciel :
-
-Réaliser d'un jeu PAC-MAN
+Projet Pac-Man Master 1 UE Génie logiciel
 
 Pour exécuter l'exécutable pacmanV1.0.jar, il suffit de taper la commande java -jar pacmanV1.0.jar dans un terminal Unix.
 
