@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pacman-release:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pacman_release_jar</output-path>
+    <root id="archive" name="pacman-release.jar">
+      <element id="module-output" name="ENGINE" />
+      <element id="dir-copy" path="$PROJECT_DIR$/ressources" />
+    </root>
+  </artifact>
+</component>
